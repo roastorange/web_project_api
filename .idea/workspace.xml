@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b79e3dc-1403-4baf-b591-4ac62fa168b4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="py27_web_project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/run.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="293">
+              <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/run_main.py" />
+        <option value="$PROJECT_DIR$/run_test.py" />
+        <option value="$PROJECT_DIR$/page/locator/login_locator.py" />
+        <option value="$PROJECT_DIR$/conf/conf.ini" />
+        <option value="$PROJECT_DIR$/locator/login_locator.py" />
+        <option value="$PROJECT_DIR$/locator/index_locator.py" />
+        <option value="$PROJECT_DIR$/locator/user_locator.py" />
+        <option value="$PROJECT_DIR$/data/__int__.py" />
+        <option value="$PROJECT_DIR$/locator/__init__.py" />
+        <option value="$PROJECT_DIR$/testcase/__init__.py" />
+        <option value="$PROJECT_DIR$/logs/all.log" />
+        <option value="$PROJECT_DIR$/page/base_page.py" />
+        <option value="$PROJECT_DIR$/page/page_index.py" />
+        <option value="$PROJECT_DIR$/page/page_login.py" />
+        <option value="$PROJECT_DIR$/testcase/conftest.py" />
+        <option value="$PROJECT_DIR$/common/webdriver.py" />
+        <option value="$PROJECT_DIR$/page/page_user.py" />
+        <option value="$PROJECT_DIR$/locator/invest_locator.py" />
+        <option value="$PROJECT_DIR$/page/page_invest.py" />
+        <option value="$PROJECT_DIR$/allure_report/0bfb0041-742a-4e56-aba4-dda81fbfd76c-container.json" />
+        <option value="$PROJECT_DIR$/allure_report/0ff5673b-3580-485b-93ec-36d9fffc3708-container.json" />
+        <option value="$PROJECT_DIR$/allure_report/1e933e37-76c7-404e-ba15-01942900d9c1-result.json" />
+        <option value="$PROJECT_DIR$/testcase/test_musen.py" />
+        <option value="$PROJECT_DIR$/run_02.py" />
+        <option value="$PROJECT_DIR$/testcase/test_invest.py" />
+        <option value="$PROJECT_DIR$/上课代码/run_02.py" />
+        <option value="$PROJECT_DIR$/testcase/test_merchant.py" />
+        <option value="$PROJECT_DIR$/try.py" />
+        <option value="$PROJECT_DIR$/testcase/4.py" />
+        <option value="$PROJECT_DIR$/testcase/3.py" />
+        <option value="$PROJECT_DIR$/testcase/test_3.py" />
+        <option value="$PROJECT_DIR$/testcase/test_4.py" />
+        <option value="$PROJECT_DIR$/data/case_data.py" />
+        <option value="$PROJECT_DIR$/api.py" />
+        <option value="$PROJECT_DIR$/api/fileupload.py" />
+        <option value="$PROJECT_DIR$/trytry.py" />
+        <option value="$PROJECT_DIR$/data/dev_data/case_data.py" />
+        <option value="$PROJECT_DIR$/data/pro_data/case_data.py" />
+        <option value="$PROJECT_DIR$/api/login_api.py" />
+        <option value="$PROJECT_DIR$/api/fileupload_api.py" />
+        <option value="$PROJECT_DIR$/testcase/test_login.py" />
+        <option value="$PROJECT_DIR$/conf/config.ini" />
+        <option value="$PROJECT_DIR$/result/logs/all.log" />
+        <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/pytest.ini" />
+        <option value="$PROJECT_DIR$/common/base_page.py" />
+        <option value="$PROJECT_DIR$/common/handle_config.py" />
+        <option value="$PROJECT_DIR$/common/handle_path.py" />
+        <option value="$PROJECT_DIR$/common/handle_logging.py" />
+        <option value="$PROJECT_DIR$/testcase/test_fileupload.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1585" />
+    <option name="height" value="1025" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="web_project_api_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="web_project_api_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="F:/python视频_web自动化pytest/03web自动化/20200526_allure和jenkins集成" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\apitest_firsttry\web_project_api_demo\data\pro_data" />
+      <recent name="F:\apitest_firsttry\web_project_api_demo\data\dev_data" />
+      <recent name="F:\apitest_firsttry\py27_web_project\testcase" />
+      <recent name="F:\apitest_firsttry\py27_web_project\data" />
+      <recent name="F:\apitest_firsttry\py27_web_project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\py27_class\py27_web_project\reslut" />
+      <recent name="C:\project\py27_class\py27_web_project\上课代码" />
+      <recent name="C:\project\py27_class\py27_web_project" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run">
+    <configuration name="fileupload" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py27_web_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="F:\apitest_firsttry\web_project_api_demo\api\fileupload_api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py27_web_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="trytry" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="py27_web_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/trytry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_fileupload.TestFileUpload" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="py27_web_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_fileupload.TestFileUpload&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_fileupload.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="py27_web_project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcase/test_fileupload.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+        <item itemvalue="Python.trytry" />
+        <item itemvalue="Python.fileupload" />
+        <item itemvalue="Python tests.pytest in test_fileupload.py" />
+        <item itemvalue="Python tests.pytest for test_fileupload.TestFileUpload" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b79e3dc-1403-4baf-b591-4ac62fa168b4" name="Default Changelist" comment="" />
+      <created>1589599518992</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589599518992</updated>
+      <workItem from="1589599520409" duration="3609000" />
+      <workItem from="1589767343434" duration="4121000" />
+      <workItem from="1589853419597" duration="802000" />
+      <workItem from="1589879830221" duration="1040000" />
+      <workItem from="1589888863656" duration="10340000" />
+      <workItem from="1589957258241" duration="1488000" />
+      <workItem from="1590041601981" duration="1270000" />
+      <workItem from="1590061898161" duration="12068000" />
+      <workItem from="1590196393682" duration="18459000" />
+      <workItem from="1590371807374" duration="990000" />
+      <workItem from="1590375289978" duration="2669000" />
+      <workItem from="1590386803613" duration="162000" />
+      <workItem from="1590388781322" duration="77000" />
+      <workItem from="1590457422238" duration="7774000" />
+      <workItem from="1590493906175" duration="7991000" />
+    </task>
+    <task id="LOCAL-00001" summary="py27期第一次提交">
+      <created>1590227027613</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590227027613</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_test_invest_py - 2020.05.23 at 11h 30m 42s.xml">
+      <configuration name="pytest in test_invest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_invest_py - 2020.05.23 at 11h 35m 09s.xml">
+      <configuration name="pytest in test_invest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_invest_py - 2020.05.23 at 11h 37m 53s.xml">
+      <configuration name="pytest in test_invest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_fileupload_TestFileUpload - 2022.02.12 at 18h 21m 59s.xml">
+      <configuration name="pytest for test_fileupload.TestFileUpload" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_fileupload_TestFileUpload - 2022.02.12 at 18h 34m 47s.xml">
+      <configuration name="pytest for test_fileupload.TestFileUpload" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_testcase - 2022.02.12 at 18h 35m 20s.xml">
+      <configuration name="pytest in testcase" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_login_TestLogin - 2022.02.12 at 18h 35m 27s.xml">
+      <configuration name="pytest for test_login.TestLogin" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_fileupload_TestFileUpload - 2022.02.12 at 19h 12m 06s.xml">
+      <configuration name="pytest for test_fileupload.TestFileUpload" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_test_fileupload_TestFileUpload - 2022.02.12 at 19h 12m 41s.xml">
+      <configuration name="pytest for test_fileupload.TestFileUpload" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_test_fileupload_py - 2022.02.13 at 20h 35m 36s.xml">
+      <configuration name="pytest in test_fileupload.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72860000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957507" visible="true" weight="0.21796565" />
+      <window_info id="Structure" order="1" sideWeight="0.5042493" side_tool="true" weight="0.21796565" />
+      <window_info id="Favorites" order="2" sideWeight="0.5042493" side_tool="true" weight="0.21796565" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.85552406" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.296034" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4957507" visible="true" weight="0.21796565" />
+      <window_info id="Structure" order="1" sideWeight="0.5042493" side_tool="true" weight="0.21796565" />
+      <window_info id="Favorites" order="2" sideWeight="0.5042493" side_tool="true" weight="0.21796565" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3371105" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.5594901" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="py27期第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="py27期第一次提交" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/py27_web_project$run_test__1_.coverage" NAME="run_test (1) Coverage Results" MODIFIED="1589889830888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py27_web_project$run_02.coverage" NAME="run_02 Coverage Results" MODIFIED="1590499241714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/上课代码" />
+    <SUITE FILE_PATH="coverage/py27_web_project$pytest_in_test_invest_py.coverage" NAME="pytest in test_invest.py Coverage Results" MODIFIED="1590204981031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/py27_web_project$page_login.coverage" NAME="page_login Coverage Results" MODIFIED="1589894932045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/page" />
+    <SUITE FILE_PATH="coverage/py27_web_project$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1589768872138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py27_web_project$run_main.coverage" NAME="run_main Coverage Results" MODIFIED="1589880169365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/py27_web_project$run.coverage" NAME="run Coverage Results" MODIFIED="1590499742081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/locator/user_locator.py" />
+    <entry file="file://$PROJECT_DIR$/allure_report/0bfb0041-742a-4e56-aba4-dda81fbfd76c-container.json" />
+    <entry file="file://$PROJECT_DIR$/allure_report/1e933e37-76c7-404e-ba15-01942900d9c1-result.json" />
+    <entry file="file://$PROJECT_DIR$/上课代码/baidu.png" />
+    <entry file="file://$PROJECT_DIR$/上课代码/baidu01.png" />
+    <entry file="file://C:/python37/Lib/site-packages/selenium/webdriver/chrome/options.py" />
+    <entry file="file://C:/python37/Lib/site-packages/selenium/webdriver/chrome/webdriver.py" />
+    <entry file="file://$PROJECT_DIR$/locator/login_locator.py" />
+    <entry file="file://$PROJECT_DIR$/allure_report/0ff5673b-3580-485b-93ec-36d9fffc3708-container.json" />
+    <entry file="file://$PROJECT_DIR$/locator/invest_locator.py" />
+    <entry file="file://$PROJECT_DIR$/locator/index_locator.py" />
+    <entry file="file://$PROJECT_DIR$/page/page_login.py" />
+    <entry file="file://$PROJECT_DIR$/page/page_invest.py" />
+    <entry file="file://$PROJECT_DIR$/上课代码/run_02.py" />
+    <entry file="file://F:/python/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/testcase/test_merchant.py" />
+    <entry file="file://$PROJECT_DIR$/.pytest_cache/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/2.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_invest.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/test_musen.py" />
+    <entry file="file://$PROJECT_DIR$/allure_report/063dcd78-3f12-4a5e-aa2d-d1725539c6d7-attachment.txt" />
+    <entry file="file://$PROJECT_DIR$/allure_report/67a16913-ccae-44c0-ae46-a8a4cf56936f-attachment.txt" />
+    <entry file="file://F:/python/Lib/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="604" column="58" lean-forward="true" selection-start-line="604" selection-start-column="58" selection-end-line="604" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_3.py" />
+    <entry file="file://$PROJECT_DIR$/testcase/test_4.py" />
+    <entry file="file://$PROJECT_DIR$/page/page_index.py" />
+    <entry file="file://$PROJECT_DIR$/api.py" />
+    <entry file="file://$PROJECT_DIR$/data/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="1146" selection-start-line="1146" selection-end-line="1146" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="60" column="50" lean-forward="true" selection-start-line="60" selection-start-column="50" selection-end-line="60" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/case_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/fileupload_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/login_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/base_page.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/handle_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#150#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/handle_path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="56" lean-forward="true" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/pro_data/case_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/logs/all.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="34" lean-forward="true" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/try.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trytry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/dev_data/case_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/handle_logging.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_fileupload.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

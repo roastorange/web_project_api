@@ -1,0 +1,294 @@
+2022-02-20 16:27:04,194 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:27:04,502 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:27:04,502 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:27:04,692 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:27:04,823 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:27:04,947 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:27:05,057 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 16:27:05,229 -- [test_fileupload.py-->line:27] - INFO: 用例--100KB以下jpg格式--执行通过
+2022-02-20 16:27:05,398 -- [test_fileupload.py-->line:27] - INFO: 用例--100KB以下png格式--执行通过
+2022-02-20 16:27:05,480 -- [test_fileupload.py-->line:27] - INFO: 用例--100KB以上jpg格式--执行通过
+2022-02-20 16:27:05,607 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:27:05,728 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:27:05,728 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:27:05,843 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:27:05,958 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:27:06,072 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:27:06,197 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 16:35:08,297 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:35:08,524 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:35:08,525 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:35:08,719 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:35:08,850 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:35:08,976 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:35:09,096 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 16:35:09,273 -- [test_fileupload.py-->line:27] - INFO: 用例--100KB以下jpg格式--执行通过
+2022-02-20 16:35:09,429 -- [test_fileupload.py-->line:27] - INFO: 用例--100KB以下png格式--执行通过
+2022-02-20 16:35:09,515 -- [test_fileupload.py-->line:27] - INFO: 用例--100KB以上jpg格式--执行通过
+2022-02-20 16:35:09,643 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:35:09,758 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:35:09,758 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:35:09,888 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:35:10,011 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:35:10,135 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:35:10,253 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 16:36:42,917 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:36:43,031 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:36:43,032 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:36:43,275 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:36:43,416 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:36:43,542 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:36:43,670 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 16:36:43,862 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以下jpg格式--执行通过
+2022-02-20 16:36:44,015 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以下png格式--执行通过
+2022-02-20 16:36:44,099 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以上jpg格式--执行通过
+2022-02-20 16:36:44,230 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:36:44,410 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:36:44,410 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:36:44,528 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:36:44,647 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:36:44,769 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:36:44,884 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 16:43:18,386 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:43:18,516 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:43:18,517 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:43:18,706 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:43:18,838 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:43:18,964 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:43:19,088 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 16:43:19,280 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以下jpg格式--执行通过
+2022-02-20 16:43:19,443 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以下png格式--执行通过
+2022-02-20 16:43:19,535 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以上jpg格式--执行通过
+2022-02-20 16:43:19,675 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:43:19,789 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:43:19,789 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:43:19,906 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:43:20,032 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:43:20,152 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:43:20,271 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 16:43:44,656 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:43:44,791 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:43:44,792 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:43:44,962 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:43:45,076 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:43:45,208 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:43:45,322 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 16:43:45,523 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以下jpg格式--执行通过
+2022-02-20 16:43:45,695 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以下png格式--执行通过
+2022-02-20 16:43:45,771 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以上jpg格式--执行通过
+2022-02-20 16:43:45,890 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:43:46,009 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:43:46,009 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:43:46,136 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:43:46,260 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:43:46,381 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:43:46,503 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 16:50:31,489 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:50:32,003 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:50:32,004 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:50:32,433 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:50:32,553 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:50:32,685 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:50:32,832 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 16:50:33,068 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以下jpg格式--执行通过
+2022-02-20 16:50:33,228 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以下png格式--执行通过
+2022-02-20 16:50:33,320 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以上jpg格式--执行通过
+2022-02-20 16:50:33,449 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:50:33,567 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:50:33,567 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:50:33,697 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:50:33,818 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:50:33,935 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:50:34,050 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 16:56:46,470 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:56:46,695 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:56:46,695 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:56:46,848 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:56:46,965 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:56:47,098 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:56:47,232 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 16:58:54,611 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 16:58:54,778 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 16:58:54,779 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 16:58:54,983 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 16:58:55,125 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 16:58:55,260 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 16:58:55,392 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 17:00:14,817 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 17:00:14,977 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 17:00:14,977 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 17:00:15,153 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 17:00:15,288 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 17:00:15,422 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 17:00:15,544 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 17:00:15,795 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以下jpg格式--执行通过
+2022-02-20 17:00:15,949 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以下png格式--执行通过
+2022-02-20 17:00:16,026 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以上jpg格式--执行通过
+2022-02-20 17:00:16,150 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 17:00:16,277 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 17:00:16,278 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 17:00:16,420 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 17:00:16,546 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 17:00:16,679 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 17:00:16,810 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 20:19:23,569 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 20:19:23,715 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 20:19:23,715 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 20:19:23,891 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 20:19:24,013 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 20:19:24,135 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 20:19:24,283 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
+2022-02-20 20:19:24,694 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以下jpg格式--执行通过
+2022-02-20 20:19:24,889 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以下png格式--执行通过
+2022-02-20 20:19:24,994 -- [test_fileupload.py-->line:28] - INFO: 用例--100KB以上jpg格式--执行通过
+2022-02-20 20:19:25,132 -- [test_login.py-->line:28] - INFO: 用例--正常登录--执行通过
+2022-02-20 20:19:25,264 -- [test_login.py-->line:24] - ERROR: 用例--登陆失败-用户名错误--执行未通过
+2022-02-20 20:19:25,265 -- [test_login.py-->line:25] - ERROR: assert '0' == '1001'
+  - 1001
+  + 0
+Traceback (most recent call last):
+  File "F:\apitest_firsttry\web_project_api_demo\testcase\test_login.py", line 21, in test_login
+    assert jsonpath.jsonpath(res, "$..code")[0] == expected["code"]
+AssertionError: assert '0' == '1001'
+  - 1001
+  + 0
+2022-02-20 20:19:25,412 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码错误--执行通过
+2022-02-20 20:19:25,545 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名为空--执行通过
+2022-02-20 20:19:25,691 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-密码为空--执行通过
+2022-02-20 20:19:25,807 -- [test_login.py-->line:28] - INFO: 用例--登陆失败-用户名、密码为空--执行通过
